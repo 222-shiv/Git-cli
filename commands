@@ -1,1 +1,6 @@
+git clone ......url...
 
+cd /... (repo we want to push code)
+git add.
+git commit -m 'making commit'
+git push
